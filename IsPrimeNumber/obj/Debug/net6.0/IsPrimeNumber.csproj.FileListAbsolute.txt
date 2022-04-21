@@ -1,0 +1,15 @@
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\bin\Debug\net6.0\IsPrimeNumber.exe
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\bin\Debug\net6.0\IsPrimeNumber.deps.json
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\bin\Debug\net6.0\IsPrimeNumber.runtimeconfig.json
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\bin\Debug\net6.0\IsPrimeNumber.dll
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\bin\Debug\net6.0\IsPrimeNumber.pdb
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\obj\Debug\net6.0\IsPrimeNumber.csproj.AssemblyReference.cache
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\obj\Debug\net6.0\IsPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\obj\Debug\net6.0\IsPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\obj\Debug\net6.0\IsPrimeNumber.AssemblyInfo.cs
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\obj\Debug\net6.0\IsPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\obj\Debug\net6.0\IsPrimeNumber.dll
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\obj\Debug\net6.0\refint\IsPrimeNumber.dll
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\obj\Debug\net6.0\IsPrimeNumber.pdb
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\obj\Debug\net6.0\IsPrimeNumber.genruntimeconfig.cache
+C:\Users\baran.dogan\source\repos\deneme\IsPrimeNumber\obj\Debug\net6.0\ref\IsPrimeNumber.dll

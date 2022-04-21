@@ -1,0 +1,15 @@
+C:\Users\baran.dogan\source\repos\deneme\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\baran.dogan\source\repos\deneme\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\baran.dogan\source\repos\deneme\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\baran.dogan\source\repos\deneme\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\baran.dogan\source\repos\deneme\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\baran.dogan\source\repos\deneme\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\baran.dogan\source\repos\deneme\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.dogan\source\repos\deneme\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\baran.dogan\source\repos\deneme\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\baran.dogan\source\repos\deneme\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\baran.dogan\source\repos\deneme\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\baran.dogan\source\repos\deneme\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\baran.dogan\source\repos\deneme\Methods\obj\Debug\net6.0\ref\Methods.dll

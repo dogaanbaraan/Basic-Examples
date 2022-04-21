@@ -1,0 +1,11 @@
+C:\Users\baran.dogan\source\repos\deneme\DamaOrnekProje\bin\Debug\DamaOrnekProje.exe.config
+C:\Users\baran.dogan\source\repos\deneme\DamaOrnekProje\bin\Debug\DamaOrnekProje.exe
+C:\Users\baran.dogan\source\repos\deneme\DamaOrnekProje\bin\Debug\DamaOrnekProje.pdb
+C:\Users\baran.dogan\source\repos\deneme\DamaOrnekProje\obj\Debug\DamaOrnekProje.csproj.AssemblyReference.cache
+C:\Users\baran.dogan\source\repos\deneme\DamaOrnekProje\obj\Debug\DamaOrnekProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\baran.dogan\source\repos\deneme\DamaOrnekProje\obj\Debug\DamaOrnekProje.Form1.resources
+C:\Users\baran.dogan\source\repos\deneme\DamaOrnekProje\obj\Debug\DamaOrnekProje.Properties.Resources.resources
+C:\Users\baran.dogan\source\repos\deneme\DamaOrnekProje\obj\Debug\DamaOrnekProje.csproj.GenerateResource.cache
+C:\Users\baran.dogan\source\repos\deneme\DamaOrnekProje\obj\Debug\DamaOrnekProje.csproj.CoreCompileInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\DamaOrnekProje\obj\Debug\DamaOrnekProje.exe
+C:\Users\baran.dogan\source\repos\deneme\DamaOrnekProje\obj\Debug\DamaOrnekProje.pdb

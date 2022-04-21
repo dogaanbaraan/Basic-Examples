@@ -1,0 +1,15 @@
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\bin\Debug\net6.0\InterfacesDemo.exe
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\bin\Debug\net6.0\InterfacesDemo.deps.json
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\bin\Debug\net6.0\InterfacesDemo.runtimeconfig.json
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\bin\Debug\net6.0\InterfacesDemo.dll
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\bin\Debug\net6.0\InterfacesDemo.pdb
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\obj\Debug\net6.0\InterfacesDemo.csproj.AssemblyReference.cache
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\obj\Debug\net6.0\InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\obj\Debug\net6.0\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\obj\Debug\net6.0\InterfacesDemo.AssemblyInfo.cs
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\obj\Debug\net6.0\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\obj\Debug\net6.0\InterfacesDemo.dll
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\obj\Debug\net6.0\refint\InterfacesDemo.dll
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\obj\Debug\net6.0\InterfacesDemo.pdb
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\obj\Debug\net6.0\InterfacesDemo.genruntimeconfig.cache
+C:\Users\baran.dogan\source\repos\deneme\InterfacesDemo\obj\Debug\net6.0\ref\InterfacesDemo.dll

@@ -1,0 +1,11 @@
+C:\Users\baran.dogan\source\repos\deneme\DamaTahtasiOrnek\bin\Debug\DamaTahtasiOrnek.exe.config
+C:\Users\baran.dogan\source\repos\deneme\DamaTahtasiOrnek\bin\Debug\DamaTahtasiOrnek.exe
+C:\Users\baran.dogan\source\repos\deneme\DamaTahtasiOrnek\bin\Debug\DamaTahtasiOrnek.pdb
+C:\Users\baran.dogan\source\repos\deneme\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.csproj.AssemblyReference.cache
+C:\Users\baran.dogan\source\repos\deneme\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\baran.dogan\source\repos\deneme\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.Form1.resources
+C:\Users\baran.dogan\source\repos\deneme\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.Properties.Resources.resources
+C:\Users\baran.dogan\source\repos\deneme\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.csproj.GenerateResource.cache
+C:\Users\baran.dogan\source\repos\deneme\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.csproj.CoreCompileInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.exe
+C:\Users\baran.dogan\source\repos\deneme\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.pdb

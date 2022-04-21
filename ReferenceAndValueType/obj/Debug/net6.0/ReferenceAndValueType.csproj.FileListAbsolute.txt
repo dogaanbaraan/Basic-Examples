@@ -1,0 +1,15 @@
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\bin\Debug\net6.0\ReferenceAndValueType.exe
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\bin\Debug\net6.0\ReferenceAndValueType.deps.json
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\bin\Debug\net6.0\ReferenceAndValueType.runtimeconfig.json
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\bin\Debug\net6.0\ReferenceAndValueType.dll
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\bin\Debug\net6.0\ReferenceAndValueType.pdb
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\obj\Debug\net6.0\ReferenceAndValueType.csproj.AssemblyReference.cache
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\obj\Debug\net6.0\ReferenceAndValueType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\obj\Debug\net6.0\ReferenceAndValueType.AssemblyInfoInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\obj\Debug\net6.0\ReferenceAndValueType.AssemblyInfo.cs
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\obj\Debug\net6.0\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\obj\Debug\net6.0\ReferenceAndValueType.dll
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\obj\Debug\net6.0\refint\ReferenceAndValueType.dll
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\obj\Debug\net6.0\ReferenceAndValueType.pdb
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\obj\Debug\net6.0\ReferenceAndValueType.genruntimeconfig.cache
+C:\Users\baran.dogan\source\repos\deneme\ReferenceAndValueType\obj\Debug\net6.0\ref\ReferenceAndValueType.dll

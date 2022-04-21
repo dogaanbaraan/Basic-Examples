@@ -1,0 +1,15 @@
+C:\Users\baran.dogan\source\repos\deneme\deneme\bin\Debug\net6.0\deneme.exe
+C:\Users\baran.dogan\source\repos\deneme\deneme\bin\Debug\net6.0\deneme.deps.json
+C:\Users\baran.dogan\source\repos\deneme\deneme\bin\Debug\net6.0\deneme.runtimeconfig.json
+C:\Users\baran.dogan\source\repos\deneme\deneme\bin\Debug\net6.0\deneme.dll
+C:\Users\baran.dogan\source\repos\deneme\deneme\bin\Debug\net6.0\deneme.pdb
+C:\Users\baran.dogan\source\repos\deneme\deneme\obj\Debug\net6.0\deneme.csproj.AssemblyReference.cache
+C:\Users\baran.dogan\source\repos\deneme\deneme\obj\Debug\net6.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.dogan\source\repos\deneme\deneme\obj\Debug\net6.0\deneme.AssemblyInfoInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\deneme\obj\Debug\net6.0\deneme.AssemblyInfo.cs
+C:\Users\baran.dogan\source\repos\deneme\deneme\obj\Debug\net6.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\deneme\obj\Debug\net6.0\deneme.dll
+C:\Users\baran.dogan\source\repos\deneme\deneme\obj\Debug\net6.0\refint\deneme.dll
+C:\Users\baran.dogan\source\repos\deneme\deneme\obj\Debug\net6.0\deneme.pdb
+C:\Users\baran.dogan\source\repos\deneme\deneme\obj\Debug\net6.0\deneme.genruntimeconfig.cache
+C:\Users\baran.dogan\source\repos\deneme\deneme\obj\Debug\net6.0\ref\deneme.dll

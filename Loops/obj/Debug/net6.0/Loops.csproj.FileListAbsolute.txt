@@ -1,0 +1,15 @@
+C:\Users\baran.dogan\source\repos\deneme\Loops\bin\Debug\net6.0\Loops.exe
+C:\Users\baran.dogan\source\repos\deneme\Loops\bin\Debug\net6.0\Loops.deps.json
+C:\Users\baran.dogan\source\repos\deneme\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+C:\Users\baran.dogan\source\repos\deneme\Loops\bin\Debug\net6.0\Loops.dll
+C:\Users\baran.dogan\source\repos\deneme\Loops\bin\Debug\net6.0\Loops.pdb
+C:\Users\baran.dogan\source\repos\deneme\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+C:\Users\baran.dogan\source\repos\deneme\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran.dogan\source\repos\deneme\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+C:\Users\baran.dogan\source\repos\deneme\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\baran.dogan\source\repos\deneme\Loops\obj\Debug\net6.0\Loops.dll
+C:\Users\baran.dogan\source\repos\deneme\Loops\obj\Debug\net6.0\refint\Loops.dll
+C:\Users\baran.dogan\source\repos\deneme\Loops\obj\Debug\net6.0\Loops.pdb
+C:\Users\baran.dogan\source\repos\deneme\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+C:\Users\baran.dogan\source\repos\deneme\Loops\obj\Debug\net6.0\ref\Loops.dll
